@@ -20,8 +20,8 @@ We believe that great ideas shouldn't be limited by complex software or long tim
 ### Get Involved & Connect
 
 <p>
-  <a href="[LINK_TO_WAITLIST]"><strong>📝 Join the VidMuse Beta Waitlist</strong></a> &nbsp;&nbsp;&nbsp;
-  <a href="[LINK_TO_DISCORD]"><strong>💬 Join our Discord Community</strong></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://tally.so/r/mVkaEl"><strong>📝 Join the VidMuse Beta Waitlist</strong></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/CahCmBCDgE"><strong>💬 Join our Discord Community</strong></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:i@aix.uy"><strong>📬 Connect with Me Directly</strong></a>
 </p>
 
