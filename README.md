@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://vidmuse.ai/">
+    <img src="https://vidmuse.ai/logo.png" alt="VidMuse Logo" width="100"/>
+  </a>
+</p>
 
-<!--
-**ai-eks/ai-eks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm AiX 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+I'm a developer at <strong><a href="https://vidmuse.ai/">VidMuse.ai</a></strong>, where I get to help shape the future of storytelling.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We believe that great ideas shouldn't be limited by complex software or long timelines. Our mission is to put creativity front and center, and I contribute to that by writing the code that brings our AI video agent to life.
+
+- 🚀 **Currently focused on:** Making video creation as simple as writing a sentence.
+- 💡 **Interested in:** Generative AI, agentic video, and building products people love.
+
+---
+
+### Get Involved & Connect
+
+<p>
+  <a href="[LINK_TO_WAITLIST]"><strong>📝 Join the VidMuse Beta Waitlist</strong></a> &nbsp;&nbsp;&nbsp;
+  <a href="[LINK_TO_DISCORD]"><strong>💬 Join our Discord Community</strong></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:i@aix.uy"><strong>📬 Connect with Me Directly</strong></a>
+</p>
+
+We're always looking for passionate people to join our team. If you're interested, reach out to us at `support@vidmuse.ai` or talk with me directly!
